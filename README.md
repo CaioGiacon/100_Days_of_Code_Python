@@ -19,8 +19,8 @@ Embora o curso original cubra desenvolvimento Fullstack (Web Design, Frontend, B
 ### **Fase 1: Fundação Sólida (Lógica & POO)**
 *O objetivo aqui é dominar a sintaxe e pensar como um engenheiro de software.*
 
-- [ ] **Dia 1-14:** Python Scripting (Variáveis, Loops, Funções Condicionais).
-- [ ] **Dia 15:** Configuração de Ambiente Profissional (Cursor + Terminal).
+- [x] **Dia 1-14:** Python Scripting (Variáveis, Loops, Funções Condicionais).
+- [x] **Dia 15:** Configuração de Ambiente Profissional (Cursor + Terminal).
 - [ ] **Dia 16-18:** Programação Orientada a Objetos (Classes, Tuplas, Importações).
 - [ ] **Dia 19-21:** Instâncias, Estado e Herança (Projetos: Turtle Race & Snake Game).
 - [ ] **Dia 22-24:** Manipulação de Arquivos e Estruturação de Diretórios.
