@@ -2,7 +2,7 @@
 
 Este repositório documenta minha jornada no desafio **100 Days of Code - The Complete Python Pro Bootcamp** (Angela Yu), com uma **adaptação estratégica** focada em **Engenharia de Inteligência Artificial**.
 
-## 🎯 Sobre a Estratégia (O "Pulo do Gato")
+## 🎯 Sobre a Estratégia 
 
 Embora o curso original cubra desenvolvimento Fullstack (Web Design, Frontend, Bootstrap), meu foco profissional é **AI Engineering** e **Backend**. Por isso, adaptei o currículo para maximizar o aprendizado em lógica, dados e microsserviços.
 
