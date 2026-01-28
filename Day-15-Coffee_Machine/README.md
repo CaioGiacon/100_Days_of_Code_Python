@@ -52,3 +52,9 @@ how many nickels?: 0
 how many pennies?: 0
 Here is $0.0 in change.
 Here is your latte ☕️. Enjoy!
+```
+
+## 👤 Autor
+Desenvolvido por Caio Giacon durante a jornada de aprendizado em Python.
+
+Este projeto é apenas para fins educacionais.
