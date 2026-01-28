@@ -71,6 +71,7 @@ You've lost! The purple turtle is the winner!
 ```
 
 ## 👤 Autor
-Caio Giacon
+Desenvolvido por Caio Giacon durante a jornada de aprendizado em Python.
 
-Este projeto foi desenvolvido como parte de uma jornada de aprendizado em Python. Sinta-se à vontade para explorar os outros dias do desafio no repositório principal!
+Este projeto é apenas para fins educacionais.
+
