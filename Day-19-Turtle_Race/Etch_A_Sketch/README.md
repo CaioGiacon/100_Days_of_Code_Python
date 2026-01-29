@@ -2,7 +2,7 @@
 
 Este projeto é uma recriação digital do clássico brinquedo "Lousa Mágica" (Etch A Sketch), desenvolvido em Python utilizando a biblioteca gráfica turtle. Ele faz parte do desafio Day 19 do 100 Days of Code.
 
-##📋 Sobre o Projeto
+📋 Sobre o Projeto
 
 O Etch-A-Sketch permite que o usuário desenhe livremente na tela controlando o movimento de uma "caneta" (a tartaruga) através do teclado. O projeto explora o conceito de Funções de Ordem Superior (Higher Order Functions) e Event Listeners para capturar e reagir às ações do usuário em tempo real.
 
@@ -65,4 +65,5 @@ python main.py
 Desenvolvido por Caio Giacon durante a jornada de aprendizado em Python.
 
 Este projeto é apenas para fins educacionais.
+
 
