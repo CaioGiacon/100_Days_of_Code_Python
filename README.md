@@ -63,6 +63,6 @@ Embora o curso original cubra desenvolvimento Fullstack (Web Design, Frontend, B
 
 ## 📫 Contato
 
-Estou documentando essa jornada para me tornar um **AI Engineer** em 2026. Se tiver dicas ou quiser discutir sobre os projetos:
+Estou documentando essa jornada para me tornar um **Engenheiro de IA** em 2026. Se tiver dicas ou quiser discutir sobre os projetos:
 
 * www.linkedin.com/in/caiogiacon
