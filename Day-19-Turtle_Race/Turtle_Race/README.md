@@ -21,10 +21,10 @@ Turtle Graphics (Módulo nativo para GUI simples)
 random (Módulo para geração de números aleatórios)
 
 ## 📂 Estrutura de Arquivos
-/Day-19-Turtle_Race
+```/Day-19-Turtle_Race
     └── /Turtle_Race
         └── main.py  # Arquivo principal do código (nome estimado)
-        
+```     
 ## 🎮 Como Executar
 Certifique-se de ter o Python instalado em sua máquina.
 
@@ -74,4 +74,5 @@ You've lost! The purple turtle is the winner!
 Desenvolvido por Caio Giacon durante a jornada de aprendizado em Python.
 
 Este projeto é apenas para fins educacionais.
+
 
