@@ -22,7 +22,7 @@ Embora o curso original cubra desenvolvimento Fullstack (Web Design, Frontend, B
 - [x] **Dia 1-14:** Python Scripting (Variáveis, Loops, Funções Condicionais).
 - [x] **Dia 15:** Configuração de Ambiente Profissional (Cursor + Terminal).
 - [x] **Dia 16-17:** Programação Orientada a Objetos (Classes, Tuplas, Importações).
-- [ ] **Dia 19-21:** Instâncias, Estado e Herança (Projetos: Turtle Race & Snake Game).
+- [ ] **Dia 19-21:** Instâncias, Estado e Herança.
 - [ ] **Dia 22-24:** Manipulação de Arquivos e Estruturação de Diretórios.
 
 ### **Fase 2: Dados & Conectividade (O Core da IA)**
@@ -63,6 +63,6 @@ Embora o curso original cubra desenvolvimento Fullstack (Web Design, Frontend, B
 
 ## 📫 Contato
 
-Estou documentando essa jornada para me tornar um **AI Engineer** em 2026. Se tiver dicas ou quiser discutir sobre os projetos:
+Estou documentando essa jornada para me tornar um **Engenheiro de IA** em 2026. Se tiver dicas ou quiser discutir sobre os projetos:
 
 * www.linkedin.com/in/caiogiacon
