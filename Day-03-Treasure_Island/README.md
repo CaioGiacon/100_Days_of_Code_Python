@@ -5,15 +5,15 @@ Este é o projeto do Day 3 do desafio 100 Days of Code. É um jogo de aventura b
 O Treasure Island é um jogo de lógica condicional. O objetivo principal deste projeto foi dominar o fluxo de controle em Python. O programa apresenta uma narrativa e solicita que o usuário tome decisões (ir para esquerda ou direita, esperar ou nadar, escolher uma porta). Cada resposta leva a um novo ramo da história, utilizando condicionais aninhadas (nested if statements).
 
 Objetivos de Aprendizado
-Controle de Fluxo: Uso avançado de if, elif e else.
+- Controle de Fluxo: Uso avançado de if, elif e else.
 
-Condicionais Aninhadas: Colocar verificações dentro de outras verificações para criar árvores de decisão complexas.
+- Condicionais Aninhadas: Colocar verificações dentro de outras verificações para criar árvores de decisão complexas.
 
-Operadores Lógicos: Gerenciamento de múltiplas condições.
+- Operadores Lógicos: Gerenciamento de múltiplas condições.
 
-Tratamento de Strings: Uso de métodos como .lower() para garantir que o input do usuário seja aceito independentemente de maiúsculas ou minúsculas.
+- Tratamento de Strings: Uso de métodos como .lower() para garantir que o input do usuário seja aceito independentemente de maiúsculas ou minúsculas.
 
-Arte ASCII: Uso de arte em texto para ilustrar o jogo no terminal.
+- Arte ASCII: Uso de arte em texto para ilustrar o jogo no terminal.
 
 ## 🚀 Tecnologias Utilizadas
 Python
@@ -62,3 +62,4 @@ You found the treasure! You Win! 🏆
 Caio Giacon
 
 Projeto desenvolvido durante o terceiro dia da jornada de aprendizado em Python.
+
