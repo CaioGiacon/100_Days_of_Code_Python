@@ -55,7 +55,8 @@ python main.py
 ## 🕹️ Controles
 Utilize as setas do teclado para guiar a cobra:
 
-```↑ -> Mover para Cima
+```
+↑ -> Mover para Cima
 ↓ -> Mover para Baixo
 ↓ -> Mover para Esquerda
 ↓ -> Mover para Direita
