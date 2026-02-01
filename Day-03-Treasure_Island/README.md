@@ -59,9 +59,7 @@ You found the treasure! You Win! 🏆
 ```
 (Nota: Escolhas erradas levam ao "Game Over", como cair em um buraco, ser atacado por trutas ou queimado por fogo).
 
-👤 Autor
+## 👤 Autor
 Caio Giacon
 
 Projeto desenvolvido durante o terceiro dia da jornada de aprendizado em Python.
-
-
