@@ -5,7 +5,7 @@ Este é o projeto do Day 4 do desafio 100 Days of Code. É uma implementação c
 O Rock Paper Scissors é um jogo de sorte e lógica simples. O objetivo principal deste projeto foi praticar a aleatoriedade e o uso de listas em Python. O programa pede ao usuário para fazer uma escolha, gera uma escolha aleatória para o computador e determina o vencedor com base nas regras clássicas.
 
 Objetivos de Aprendizado
-- Módulo Random: Uso de random.randint() para gerar a jogada do computador.
+- Módulo Random: Uso de random.choice() para gerar a jogada do computador.
 
 - Listas (Lists): Armazenamento das artes ASCII em uma lista para fácil acesso baseado no índice (0, 1, 2).
 
@@ -72,3 +72,4 @@ You lose!
 Caio Giacon
 
 Projeto desenvolvido durante o quarto dia da jornada de aprendizado em Python.
+
