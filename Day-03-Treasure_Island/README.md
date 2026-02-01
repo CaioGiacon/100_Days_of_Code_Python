@@ -56,10 +56,12 @@ You come to a lake. There is an island in the middle of the lake. Type "wait" to
 You arrive at the island unharmed. There is a house with 3 doors. One red, one yellow and one blue. Which colour do you choose?
 > yellow
 You found the treasure! You Win! 🏆
-(Nota: Escolhas erradas levam ao "Game Over", como cair em um buraco, ser atacado por trutas ou queimado por fogo).
 ```
+(Nota: Escolhas erradas levam ao "Game Over", como cair em um buraco, ser atacado por trutas ou queimado por fogo).
+
 👤 Autor
 Caio Giacon
 
 Projeto desenvolvido durante o terceiro dia da jornada de aprendizado em Python.
+
 
