@@ -55,4 +55,6 @@ Your band name could be Bristol Rabbit
 
 ## 👤 Autor
 Caio Giacon
+
 Este projeto marca o início da jornada de aprendizado em Python no desafio 100 Days of Code.
+
