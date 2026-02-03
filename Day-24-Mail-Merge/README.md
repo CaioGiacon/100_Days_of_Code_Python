@@ -66,9 +66,9 @@ python main.py
 Verifique o resultado: Abra a pasta Output/ReadyToSend. Você verá arquivos como letter_for_Aang.txt, letter_for_Zuko.txt, etc.
 
 ## 📝 Exemplo de Processamento
-Entrada (Modelo):
+```Entrada (Modelo):
 
-```Dear [name], You are invited to my birthday...
+Dear [name], You are invited to my birthday...
 
 Entrada (Lista):
 
@@ -83,3 +83,4 @@ Arquivo 1: "Dear Aang, You are invited..." Arquivo 2: "Dear Zuko, You are invite
 Caio Giacon
 
 Projeto desenvolvido para praticar automação e manipulação de sistema de arquivos em Python.
+
