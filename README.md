@@ -23,7 +23,7 @@ Embora o curso original cubra desenvolvimento Fullstack (Web Design, Frontend, B
 - [x] **Dia 15:** Configuração de Ambiente Profissional (Cursor + Terminal).
 - [x] **Dia 16-17:** Programação Orientada a Objetos (Classes, Tuplas, Importações).
 - [x] **Dia 19-21:** Instâncias, Estado e Herança.
-- [ ] **Dia 24:** Manipulação de Arquivos e Estruturação de Diretórios.
+- [x] **Dia 24:** Manipulação de Arquivos e Estruturação de Diretórios.
 
 ### **Fase 2: Dados & Conectividade (O Core da IA)**
 *Entendendo como dados trafegam e como manipular informações.*
